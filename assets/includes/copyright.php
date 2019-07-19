@@ -1,0 +1,1 @@
+<h5>Copyright &copy;<?php echo date('Y'); ?> <?php echo $companyName; ?></h5>
